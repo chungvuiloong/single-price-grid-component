@@ -1,3 +1,4 @@
+import Footer from '@/components/Footer'
 import JoinCommunity from '@/components/JoinCommunity'
 import MonthlySubscription from '@/components/MonthlySubscription'
 import WhyUs from '@/components/WhyUs'
@@ -12,6 +13,7 @@ export default function Home() {
                     <WhyUs />
                 </div>
             </div>
+            <Footer />
     </main>
   )
 }

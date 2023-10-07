@@ -15,7 +15,7 @@ export default function Home() {
             <div className='flex flex-col gap-1'>
                 <div className='flex flex-row gap-4'>
                     <div className='text-3xl font-bold'>&#x24;29</div> 
-                    <div className='self-center text-Light-Gray'>per month</div>
+                    <div className='self-center text-Light-Gray opacity-80'>per month</div>
                 </div>
                 <div>Full access for less than &#x24;1 a day</div>
             </div>
@@ -23,7 +23,7 @@ export default function Home() {
         </div>
         <div className='flex flex-col gap-3 bg-Cyan brightness-105 p-10 text-white'>
             <h2 className='text-lg'>Why us</h2>
-            <p>
+            <p className='text-Light-Gray opacity-80'>
             Tutorials by industry experts <br/>
             Peer &amp; expert code review <br/>
             Coding exercises <br/>

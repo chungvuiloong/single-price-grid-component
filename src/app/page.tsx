@@ -12,9 +12,9 @@ export default function Home() {
         </div>
         <div className='flex flex-col gap-3 bg-Cyan p-10 text-white'>
             <h2 className='text-lg'>Monthly Subscription</h2>
-            <div>
-                <div className='flex flex-row gap-3'>
-                    <div className='text-[26px] font-bold'>$29</div> 
+            <div className='flex flex-col gap-1'>
+                <div className='flex flex-row gap-4'>
+                    <div className='text-3xl font-bold'>$29</div> 
                     <div className='self-center text-Light-Gray'>per month</div>
                 </div>
                 <div>Full access for less than $1 a day</div>

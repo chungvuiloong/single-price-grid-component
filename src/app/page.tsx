@@ -10,6 +10,9 @@ export default function Home() {
             <p className='text-Grayish-Blue text-base'>  Gain access to our full library of tutorials along with expert code reviews. 
   Perfect for any developers who are serious about honing their skills.</p>
         </div>
+        <div className='bg-Cyan p-10 text-white'>
+            Test
+        </div>
 
     </main>
   )

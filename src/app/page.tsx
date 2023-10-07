@@ -5,7 +5,7 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <main>
+    <main className='h-[100vw]'>
         <JoinCommunity />
         <div className='flex lg:flex-row flex-col'>
             <MonthlySubscription />

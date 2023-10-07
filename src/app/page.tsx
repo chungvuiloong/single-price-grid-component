@@ -14,14 +14,25 @@ export default function Home() {
             <h2 className='text-lg'>Monthly Subscription</h2>
             <div className='flex flex-col gap-1'>
                 <div className='flex flex-row gap-4'>
-                    <div className='text-3xl font-bold'>$29</div> 
+                    <div className='text-3xl font-bold'>&#x24;29</div> 
                     <div className='self-center text-Light-Gray'>per month</div>
                 </div>
-                <div>Full access for less than $1 a day</div>
+                <div>Full access for less than &#x24;1 a day</div>
             </div>
             <button className="mt-4 p-3.5 bg-Bright-Yellow border-none text-white rounded-md ">Sign Up</button>
         </div>
-
+        <div className='flex flex-col gap-3 bg-Cyan brightness-105 p-10 text-white'>
+            <h2 className='text-lg'>Why us</h2>
+            <p>
+            Tutorials by industry experts <br/>
+            Peer &amp; expert code review <br/>
+            Coding exercises <br/>
+            Access to our GitHub repos <br/>
+            Community forum <br/>
+            Flashcard decks <br/>
+            New videos every week <br/>
+            </p>
+        </div>
     </main>
   )
 }

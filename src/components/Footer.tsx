@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <footer className='py-10 absolute sm:block hidden bottom-0 bg-[#262626] w-full text-white text-center'>
+        <footer className='py-10 absolute lg:block hidden bottom-0 bg-Cyan w-full text-white text-center'>
                 Challenge by{" "}
             <a href="https://www.frontendmentor.io?ref=challenge" 
                 target="_blank" 

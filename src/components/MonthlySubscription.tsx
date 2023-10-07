@@ -2,7 +2,7 @@ import React from 'react';
 
 const MonthlySubscription = () => {
     return (
-        <div className='flex flex-col gap-3 bg-Cyan p-10 text-white'>
+        <div className='basis-1/2 flex flex-col gap-3 bg-Cyan p-10 text-white'>
             <h2 className='text-lg'>Monthly Subscription</h2>
             <div className='flex flex-col gap-1'>
                 <div className='flex flex-row gap-4'>

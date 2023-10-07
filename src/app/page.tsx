@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <main className='flex flex-col justify-center'>
         <div className='mx-auto'>
-            <div className='max-w-[650px] m-[30px] rounded-md'>
+            <div className='max-w-[650px] m-[30px] rounded-md overflow-hidden'>
                 <JoinCommunity />
                 <div className='flex lg:flex-row flex-col w-auto'>
                     <MonthlySubscription />

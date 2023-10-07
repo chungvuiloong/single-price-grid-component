@@ -5,11 +5,13 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <main className='h-[100vw]'>
-        <JoinCommunity />
-        <div className='flex lg:flex-row flex-col'>
-            <MonthlySubscription />
-            <WhyUs />
+    <main className='h-full'>
+        <div className='max-w-[650px]'>
+            <JoinCommunity />
+            <div className='flex lg:flex-row flex-col w-auto'>
+                <MonthlySubscription />
+                <WhyUs />
+            </div>
         </div>
     </main>
   )

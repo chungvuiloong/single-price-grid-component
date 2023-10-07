@@ -10,7 +10,7 @@ export default function Home() {
             <p className='text-Grayish-Blue text-base'>  Gain access to our full library of tutorials along with expert code reviews. 
   Perfect for any developers who are serious about honing their skills.</p>
         </div>
-        <div className='bg-Cyan p-10 text-white'>
+        <div className='flex flex-col gap-5 bg-Cyan p-10 text-white'>
             <h2 className='text-xl'>Monthly Subscription</h2>
             <div>
                 <div className='flex flex-row gap-3'>

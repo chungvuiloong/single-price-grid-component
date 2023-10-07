@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main>
         
-        <div className='bg-white'>
+        <div className='bg-white py-10'>
             <h1 className='text-Cyan font-bold'>Join our community</h1>
             <h2 className='text-Bright-Yellow font-bold'>30-day, hassle-free money back guarantee</h2>
             <p className='text-Grayish-Blue text-base'>  Gain access to our full library of tutorials along with expert code reviews. 

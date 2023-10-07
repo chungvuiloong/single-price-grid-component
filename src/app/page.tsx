@@ -19,7 +19,7 @@ export default function Home() {
                 </div>
                 <div>Full access for less than $1 a day</div>
             </div>
-            <button className="mt-4 btn bg-Bright-Yellow border-none text-white">Sign Up</button>
+            <button className="mt-4 p-3.5 bg-Bright-Yellow border-none text-white rounded-md ">Sign Up</button>
         </div>
 
     </main>

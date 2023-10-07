@@ -12,11 +12,13 @@ export default function Home() {
         </div>
         <div className='bg-Cyan p-10 text-white'>
             <h2 className='text-xl'>Monthly Subscription</h2>
-            <div className='flex flex-row gap-3'>
-               <div className='text-3xl font-bold'>$29</div> 
-               <div className='self-center'>per month</div>
+            <div>
+                <div className='flex flex-row gap-3'>
+                    <div className='text-3xl font-bold'>$29</div> 
+                    <div className='self-center text-Light-Gray'>per month</div>
+                </div>
+                <div>Full access for less than $1 a day</div>
             </div>
-            <div>Full access for less than $1 a day</div>
             <button className="btn bg-Bright-Yellow border-none text-white">Sign Up</button>
         </div>
 

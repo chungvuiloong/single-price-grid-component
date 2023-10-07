@@ -10,6 +10,10 @@ module.exports = {
   ],
   theme: {
     extend: {
+      screens: {
+        'sm': '375px',
+        'lg': '1440px'
+      },
       colors: {
         'Cyan': 'hsl(179, 62%, 43%)',
         'Bright-Yellow': 'hsl(71, 73%, 54%)',

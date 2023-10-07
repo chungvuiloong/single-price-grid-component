@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main>
         
-        <div className='bg-white p-10'>
+        <div className='bg-white p-10 flex flex-col gap-2'>
             <h1 className='text-2xl text-Cyan font-bold'>Join our community</h1>
             <h2 className='text-lg text-Bright-Yellow font-bold'>30-day, hassle-free money back guarantee</h2>
             <p className='text-Grayish-Blue text-base'>  Gain access to our full library of tutorials along with expert code reviews. 

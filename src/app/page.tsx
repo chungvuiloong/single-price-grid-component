@@ -11,7 +11,10 @@ export default function Home() {
   Perfect for any developers who are serious about honing their skills.</p>
         </div>
         <div className='bg-Cyan p-10 text-white'>
-            Test
+            <div>Monthly Subscription</div>
+            <div>$29 per month</div>
+            <div>ull access for less than $1 a day</div>
+            <button className="btn bg-Bright-Yellow border-none text-white">Sign Up</button>
         </div>
 
     </main>

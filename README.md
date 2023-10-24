@@ -24,11 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](./src/assets/screenshot/screenshot.png)
-
 ### Links
 
-- Solution URL: [Github](https://github.com/jeresulovuo/single-price-grid-component)
+- Solution URL: [Github](https://github.com/chungvuiloong/single-price-grid-component)
 - Live Site URL: [Vercel](https://mrjays-single-price-grid-component.vercel.app/)
 
 ## My process
